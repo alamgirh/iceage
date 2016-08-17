@@ -1,1 +1,2 @@
 # iceage
+During the last two million years, a series of ice ages has occurred, during which large ice sheets have grown, principally on the northern hemisphere land masses [Fowler (2011)]. Late Pleistocene ice ages occurred with some regularity, with a period of 100,000 years over the last 450,000 years. I have investigated the full 2-million-year Pleistocene climate model using the model proposed by Maasch & Saltzman (1990).
